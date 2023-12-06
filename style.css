@@ -1,0 +1,316 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Heebo", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  border: none;
+}
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+#header {
+  margin-top: 20px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.header a {
+  color: #000;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 0 33px;
+}
+
+#hero {
+  margin-top: 150px;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hero-text h1 {
+  color: #21243d;
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 60px; /* 136.364% */
+}
+
+.hero-text p {
+  color: #21243d;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  padding: 40px 0 38px 0;
+}
+
+.hero-text button {
+  width: 208px;
+  height: 47px;
+  border-radius: 2px;
+  background: #ff6464;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+#hiro {
+  padding: 40px 0;
+  background: #edf7fa;
+  margin-top: 71px;
+}
+
+.hiro {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 27px 0 22px 0;
+}
+
+.hiro2 h1 {
+  color: #21243d;
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.hiro3 h1 {
+  color: #00a8cc;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.hiro-menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hiro-card {
+  width: 418px;
+  height: 295px;
+  border-radius: 4px;
+  background: #fff;
+  box-shadow: 0px 4px 10px 0px rgba(187, 225, 250, 0.25);
+  padding-left: 23px;
+  padding-top: 24px;
+}
+
+.hiro-card h1 {
+  color: #21243d;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.hiro-card h5 {
+  color: #21243d;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 25px 0 27px 0;
+}
+
+.hiro-card h5 span {
+  padding: 0 25px;
+}
+
+.hiro-card p {
+  color: #21243d;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+}
+
+#floor {
+  padding-top: 15px;
+}
+
+.floor h1 {
+  color: #21243d;
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.floor-main {
+  padding-top: 22px;
+  display: flex;
+}
+
+.floor-rign {
+  padding-left: 18px;
+}
+
+.floor-left {
+  display: flex;
+  padding: 20px 0 22px 0;
+}
+
+.floor-rign h1 {
+  color: #21243d;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.floor-left h5 {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 900;
+  width: 62px;
+  height: 25px;
+  border-radius: 16px;
+  background: #142850;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.floor-left h6 {
+  color: #8695a4;
+  font-size: 20px;
+  font-weight: 400;
+  padding-left: 26px;
+}
+
+#floor2 {
+  padding-top: 15px;
+}
+
+.floor2 h1 {
+  color: #21243d;
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.floor-main2 {
+  padding-top: 22px;
+  display: flex;
+}
+
+.floor-rign2 {
+  padding-left: 18px;
+}
+
+.floor-left {
+  display: flex;
+  padding: 20px 0 22px 0;
+}
+
+.floor-rign2 h1 {
+  color: #21243d;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.floor-left2 h5 {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 900;
+  width: 62px;
+  height: 25px;
+  border-radius: 16px;
+  background: #142850;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.floor-left2 h6 {
+  color: #8695a4;
+  font-size: 20px;
+  font-weight: 400;
+  padding-left: 26px;
+}
+
+#floor3 {
+  padding-top: 15px;
+}
+
+.floor3 h1 {
+  color: #21243d;
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.floor-main3 {
+  padding-top: 22px;
+  display: flex;
+}
+
+.floor-rign3 {
+  padding-left: 18px;
+}
+
+.floor-left3 {
+  display: flex;
+  padding: 20px 0 22px 0;
+}
+
+.floor-rign3 h1 {
+  color: #21243d;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.floor-left3 h5 {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 900;
+  width: 62px;
+  height: 25px;
+  border-radius: 16px;
+  background: #142850;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.floor-left3 h6 {
+  color: #8695a4;
+  font-size: 20px;
+  font-weight: 400;
+  padding-left: 26px;
+}
+
+#footer {
+  padding-top: 138px;
+}
+
+.footer-card span {
+  color: black;
+  font-size: 30px;
+  margin: 0 35px;
+}
+
+.footer-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footerleft h5 {
+  color: #21243d;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 400;
+  padding: 26px 0 54px 0;
+}
+.floor-wid svg {
+  width: 700px;
+}

@@ -1,0 +1,267 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 70%;
+    margin: 0 auto;
+  }
+}
+@media (max-width: 1200px) {
+}
+@media (max-width: 1024px) {
+  .hero-text h1 {
+    font-size: 41px;
+  }
+  .hero-text p {
+    width: 497px;
+    height: 46px;
+  }
+  .hero-img img {
+    width: 250px;
+  }
+  .hero-text button {
+    width: 184px;
+    height: 50px;
+    font-size: 17px;
+  }
+  #footer {
+    padding-top: 80px;
+  }
+  .hiro-menu {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .hiro {
+    align-items: center;
+    justify-content: center;
+  }
+  .hiro3 {
+    display: none;
+  }
+  .hiro-card {
+    margin: 20px 0;
+  }
+  .hero-text p {
+    width: 497px;
+    height: 66px;
+  }
+}
+@media (max-width: 992px) {
+  .floor-main img {
+    width: 450px;
+  }
+  .hero {
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .hero-text p {
+    padding: 30px 0 30px 0;
+  }
+  .hiro-card {
+    margin: 17px;
+  }
+  .floor2 {
+    display: none;
+  }
+  .floor-main2 {
+    display: none;
+  }
+  .floor-main3 {
+    display: none;
+  }
+  .floor-wid svg {
+    width: 100px;
+  }
+  .floor-wid2 {
+    display: none;
+  }
+  .floor-wid3 {
+    display: none;
+  }
+  .floor-main {
+    flex-direction: column;
+  }
+  .floor-rign p {
+    width: 453px;
+    height: 462px;
+    font-size: 20px;
+  }
+  floor h1 {
+    text-align: center;
+  }
+  .floor3 {
+    display: none;
+  }
+  #footer {
+    padding-top: 0;
+  }
+  #floor2 {
+    padding-top: 0;
+  }
+}
+@media (max-width: 768px) {
+}
+@media (max-width: 576px) {
+}
+@media (max-width: 451px) {
+  .header a {
+    font-size: 20px;
+    padding: 0 17px;
+  }
+  .hero-text h1 {
+    width: 312px;
+  }
+  .hero-text p {
+    width: 328px;
+    font-size: -3px;
+    padding: 16px 0 72px 0;
+  }
+  .hero-img img {
+    width: 250px;
+  }
+  .hero-text h1 {
+    font-size: 34px;
+  }
+  .hiro-card {
+    width: 356px;
+    height: 275px;
+  }
+  .floor-rign {
+    padding-left: 0;
+  }
+  .floor-left {
+    padding: 6px 0 16px 0;
+  }
+  .floor-rign p {
+    width: 344px;
+  }
+  .floor-rign p {
+    width: 335px;
+    font-size: 15px;
+  }
+}
+@media (max-width: 400px) {
+  .header a {
+    display: none;
+  }
+  .hero-text h1 {
+    font-size: 37px;
+    line-height: 43px;
+  }
+  .hero-img img {
+    width: 240px;
+  }
+  .hero-text p {
+    width: 303px;
+    font-size: 15px;
+    padding: 6px 0 57px 0;
+  }
+  .hero-text button {
+    width: 141px;
+    height: 42px;
+    font-size: 13px;
+  }
+  #hiro {
+    padding-top: 0;
+  }
+  .hiro-card {
+    width: 316px;
+    height: 264px;
+  }
+  .hiro-card h1 {
+    font-size: 20px;
+  }
+  .hiro-card p {
+    font-size: 14px;
+  }
+  .hiro-card h5 span {
+    padding: 0px 12px;
+  }
+  .floor-rign h1 {
+    font-size: 26px;
+  }
+  .floor-left h5 {
+    font-size: 13px;
+    width: 51px;
+    height: 19px;
+  }
+
+  .floor-left h6 {
+    font-size: 14px;
+  }
+  .floor-rign p {
+    width: 313px;
+    font-size: 12px;
+  }
+  .floor-rign span {
+    display: none;
+  }
+  .footer-card span {
+    margin: 0 15px;
+  }
+  .footerleft h5 {
+    font-size: 11px;
+    padding: 9px 0 0 0;
+  }
+}
+@media (max-width: 376px) {
+  .floor-main img {
+    width: 100%;
+  }
+}
+@media (max-width: 320px) {
+  .hero-img img {
+    width: 226px;
+  }
+  .hero-text h1 {
+    font-size: 32px;
+    line-height: 37px;
+  }
+  .hero-text p {
+    width: 311px;
+    height: 52px;
+    font-size: 13px;
+  }
+  .hero-text button {
+    width: 102px;
+    height: 29px;
+    font-size: 10px;
+  }
+  .hero-text button {
+    width: 102px;
+    height: 29px;
+    font-size: 10px;
+  }
+  #hiro {
+    width: 100%;
+  }
+  .hiro-card {
+    width: 251px;
+    height: 204px;
+  }
+  .hiro-card h1 {
+    font-size: 15px;
+  }
+  .hiro-card h5 {
+    font-size: 14px;
+    padding: 16px 0 20px 0;
+  }
+  .hiro-card p {
+    font-size: 11px;
+  }
+  .floor-rign h1 {
+    font-size: 21px;
+  }
+  .floor-rign p {
+    width: 269px;
+    font-size: 12px;
+  }
+  .footer-card span {
+    font-size: 23px;
+  }
+  .footerleft h5 {
+    font-size: 9px;
+    padding-top: 0;
+  }
+}
