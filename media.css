@@ -212,7 +212,7 @@
 }
 @media (max-width: 320px) {
   .hero-img img {
-    width: 226px;
+    width: 100%;
   }
   .hero-text h1 {
     font-size: 32px;
