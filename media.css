@@ -211,8 +211,8 @@
   }
 }
 @media (max-width: 320px) {
-  .hero-img img {
-    width: 100%;
+  .floor-main img {
+    width: 70%;
   }
   .hero-text h1 {
     font-size: 32px;
